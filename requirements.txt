@@ -1,9 +1,3 @@
-# local package install
-#-e .
-
-#Third party Package installtion
-#dvc
-#dvc[gdrive]
 scikit-learn
 pandas
 pytest
@@ -14,6 +8,7 @@ pydantic
 uvicorn
 gunicorn
 python-multipart
-#uvloop
+seaborn
+matplotlib
 httptools
 mlflow
