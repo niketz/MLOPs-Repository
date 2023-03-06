@@ -11,4 +11,4 @@ python-multipart
 seaborn
 matplotlib
 httptools
-mlflow
+mlflow==1.30.0
