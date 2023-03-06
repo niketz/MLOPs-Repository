@@ -4,7 +4,7 @@
 #Third party Package installtion
 #dvc
 #dvc[gdrive]
-sklearn
+scikit-learn
 pandas
 pytest
 tox
