@@ -1,0 +1,19 @@
+# local package install
+#-e .
+
+#Third party Package installtion
+#dvc
+#dvc[gdrive]
+sklearn
+pandas
+pytest
+tox
+flake8
+fastapi
+pydantic
+uvicorn
+gunicorn
+python-multipart
+#uvloop
+httptools
+mlflow
